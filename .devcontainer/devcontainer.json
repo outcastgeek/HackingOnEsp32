@@ -1,0 +1,9 @@
+{
+    "image": "espressif/idf",
+    "extensions": [
+        "vscode-arduino",
+        "ms-vscode.cpptools",
+        "jdinhlife.gruvbox",
+        "equinusocio.vsc-material-theme-icons"
+    ]
+}
