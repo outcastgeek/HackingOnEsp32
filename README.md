@@ -100,3 +100,9 @@ Inspect binaries in `build` folder:
 > nm -a your-project-folder/build/esp32.esp32.esp32-poe-iso/your-project-folder.ino.elf
 
 ```
+
+## Miscellaneous
+
+* [TFT_eSPI -- An Arduino IDE compatible graphics and fonts library for 32 bit processors.](https://github.com/Bodmer/TFT_eSPI)
+* [BlueCube is a open source project designed to allow remote control of a Freetronics 4x4x4 RGB LED Cube](https://neographophobic.github.io/BlueCube/download.html)
+
